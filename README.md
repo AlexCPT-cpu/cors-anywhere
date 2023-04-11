@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.com/Rob--W/cors-anywhere.svg?branch=master)](https://travis-ci.com/Rob--W/cors-anywhere)
-[![Coverage Status](https://coveralls.io/repos/github/Rob--W/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/Rob--W/cors-anywhere?branch=master)
+[![Build Status]]
+[![Coverage Status]]
 
 **CORS Anywhere** is a NodeJS proxy which adds CORS headers to the proxied request.
 
@@ -51,7 +51,6 @@ To use the API, just prefix the URL with the API URL. Take a look at [demo.html]
 A concise summary of the documentation is provided at [lib/help.txt](lib/help.txt).
 
 **Note: as of February 2021, access to the demo server requires an opt-in**,
-see: https://github.com/Rob--W/cors-anywhere/issues/301
 
 If you want to automatically enable cross-domain requests when needed, use the following snippet:
 
@@ -170,7 +169,7 @@ node server.js
 
 ## License
 
-Copyright (C) 2013 - 2021 Rob Wu <rob@robwu.nl>
+Copyright (C) 2013 - 2021 Grayson <alexodey79@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
